@@ -203,7 +203,10 @@ a {
 }
 
 /* Subscriptions Section */
-
+.plans {
+  text-align: center;
+  margin-top: 20px;
+}
 .subscriptions {
   display: flex;
   justify-content: space-around;
